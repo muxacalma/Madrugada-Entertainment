@@ -1,0 +1,2402 @@
+fileFormatVersion: 2
+guid: e3acaf8aa1298417781d9318212488ec
+timeCreated: 1521489869
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Objectos_0
+    21300002: Objectos_1
+    21300004: Objectos_2
+    21300006: Objectos_3
+    21300008: Objectos_4
+    21300010: Objectos_5
+    21300012: Objectos_6
+    21300014: Objectos_7
+    21300016: Objectos_8
+    21300018: Objectos_9
+    21300020: Objectos_10
+    21300022: Objectos_11
+    21300024: Objectos_12
+    21300026: Objectos_13
+    21300028: Objectos_14
+    21300030: Objectos_15
+    21300032: Objectos_16
+    21300034: Objectos_17
+    21300036: Objectos_18
+    21300038: Objectos_19
+    21300040: Objectos_20
+    21300042: Objectos_21
+    21300044: Objectos_22
+    21300046: Objectos_23
+    21300048: Objectos_24
+    21300050: Objectos_25
+    21300052: Objectos_26
+    21300054: Objectos_27
+    21300056: Objectos_28
+    21300058: Objectos_29
+    21300060: Objectos_30
+    21300062: Objectos_31
+    21300064: Objectos_32
+    21300066: Objectos_33
+    21300068: Objectos_34
+    21300070: Objectos_35
+    21300072: Objectos_36
+    21300074: Objectos_37
+    21300076: Objectos_38
+    21300078: Objectos_39
+    21300080: Objectos_40
+    21300082: Objectos_41
+    21300084: Objectos_42
+    21300086: Objectos_43
+    21300088: Objectos_44
+    21300090: Objectos_45
+    21300092: Objectos_46
+    21300094: Objectos_47
+    21300096: Objectos_48
+    21300098: Objectos_49
+    21300100: Objectos_50
+    21300102: Objectos_51
+    21300104: Objectos_52
+    21300106: Objectos_53
+    21300108: Objectos_54
+    21300110: Objectos_55
+    21300112: Objectos_56
+    21300114: Objectos_57
+    21300116: Objectos_58
+    21300118: Objectos_59
+    21300120: Objectos_60
+    21300122: Objectos_61
+    21300124: Objectos_62
+    21300126: Objectos_63
+    21300128: Objectos_64
+    21300130: Objectos_65
+    21300132: Objectos_66
+    21300134: Objectos_67
+    21300136: Objectos_68
+    21300138: Objectos_69
+    21300140: Objectos_70
+    21300142: Objectos_71
+    21300144: Objectos_72
+    21300146: Objectos_73
+    21300148: Objectos_74
+    21300150: Objectos_75
+    21300152: Objectos_76
+    21300154: Objectos_77
+    21300156: Objectos_78
+    21300158: Objectos_79
+    21300160: Objectos_80
+    21300162: Objectos_81
+    21300164: Objectos_82
+    21300166: Objectos_83
+    21300168: Objectos_84
+    21300170: Objectos_85
+    21300172: Objectos_86
+    21300174: Objectos_87
+    21300176: Objectos_88
+    21300178: Objectos_89
+    21300180: Objectos_90
+    21300182: Objectos_91
+    21300184: Objectos_92
+    21300186: Objectos_93
+    21300188: Objectos_94
+    21300190: Objectos_95
+    21300192: Objectos_96
+    21300194: Objectos_97
+    21300196: Objectos_98
+    21300198: Objectos_99
+    21300200: Objectos_100
+    21300202: Objectos_101
+    21300204: Objectos_102
+    21300206: Objectos_103
+    21300208: Objectos_104
+    21300210: Objectos_105
+    21300212: Objectos_106
+    21300214: Objectos_107
+    21300216: Objectos_108
+    21300218: Objectos_109
+    21300220: Objectos_110
+    21300222: Objectos_111
+    21300224: Objectos_112
+    21300226: Objectos_113
+    21300228: Objectos_114
+    21300230: Objectos_115
+    21300232: Objectos_116
+    21300234: Objectos_117
+    21300236: Objectos_118
+    21300238: Objectos_119
+    21300240: Objectos_120
+    21300242: Objectos_121
+    21300244: Objectos_122
+    21300246: Objectos_123
+    21300248: Objectos_124
+    21300250: Objectos_125
+    21300252: Objectos_126
+    21300254: Objectos_127
+    21300256: Objectos_128
+    21300258: Objectos_129
+    21300260: Objectos_130
+    21300262: Objectos_131
+    21300264: Objectos_132
+    21300266: Objectos_133
+    21300268: Objectos_134
+    21300270: Objectos_135
+    21300272: Objectos_136
+    21300274: Objectos_137
+    21300276: Objectos_138
+    21300278: Objectos_139
+    21300280: Objectos_140
+    21300282: Objectos_141
+    21300284: Objectos_142
+    21300286: Objectos_143
+    21300288: Objectos_144
+    21300290: Objectos_145
+    21300292: Objectos_146
+    21300294: Objectos_147
+    21300296: Objectos_148
+    21300298: Objectos_149
+    21300300: Objectos_150
+    21300302: Objectos_151
+    21300304: Objectos_152
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Objectos_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5718
+        width: 333
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5675
+        width: 340
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_2
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 5839
+        width: 398
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_3
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 5769
+        width: 455
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5693
+        width: 637
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_5
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 5675
+        width: 741
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_6
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 5596
+        width: 597
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_7
+      rect:
+        serializedVersion: 2
+        x: 5095
+        y: 5602
+        width: 551
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_8
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 5628
+        width: 512
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_9
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 5700
+        width: 746
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_10
+      rect:
+        serializedVersion: 2
+        x: 7619
+        y: 5693
+        width: 563
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_11
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 5727
+        width: 465
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_12
+      rect:
+        serializedVersion: 2
+        x: 9128
+        y: 5693
+        width: 461
+        height: 883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_13
+      rect:
+        serializedVersion: 2
+        x: 9753
+        y: 5675
+        width: 443
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_14
+      rect:
+        serializedVersion: 2
+        x: 10378
+        y: 5912
+        width: 116
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 5169
+        width: 522
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_16
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 4996
+        width: 197
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_17
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 4862
+        width: 410
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_18
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 5208
+        width: 145
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_19
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 5208
+        width: 197
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_20
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 5032
+        width: 455
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_21
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 5046
+        width: 552
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_22
+      rect:
+        serializedVersion: 2
+        x: 4851
+        y: 5044
+        width: 400
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_23
+      rect:
+        serializedVersion: 2
+        x: 5354
+        y: 5044
+        width: 401
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_24
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 5087
+        width: 409
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_25
+      rect:
+        serializedVersion: 2
+        x: 6495
+        y: 5081
+        width: 413
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_26
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 4780
+        width: 680
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_27
+      rect:
+        serializedVersion: 2
+        x: 8067
+        y: 5232
+        width: 162
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_28
+      rect:
+        serializedVersion: 2
+        x: 8378
+        y: 5135
+        width: 239
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_29
+      rect:
+        serializedVersion: 2
+        x: 8716
+        y: 5117
+        width: 235
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_30
+      rect:
+        serializedVersion: 2
+        x: 9068
+        y: 5141
+        width: 230
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_31
+      rect:
+        serializedVersion: 2
+        x: 9541
+        y: 4805
+        width: 758
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_32
+      rect:
+        serializedVersion: 2
+        x: 10475
+        y: 4783
+        width: 789
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_33
+      rect:
+        serializedVersion: 2
+        x: 11586
+        y: 4826
+        width: 840
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_34
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 4262
+        width: 593
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_35
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 4803
+        width: 150
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_36
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 4803
+        width: 151
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_37
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 4723
+        width: 231
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_38
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 4560
+        width: 171
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_39
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 4559
+        width: 278
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_40
+      rect:
+        serializedVersion: 2
+        x: 7909
+        y: 4225
+        width: 534
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_41
+      rect:
+        serializedVersion: 2
+        x: 9306
+        y: 4257
+        width: 335
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_42
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 4189
+        width: 648
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_43
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 3874
+        width: 940
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_44
+      rect:
+        serializedVersion: 2
+        x: 6289
+        y: 4359
+        width: 200
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_45
+      rect:
+        serializedVersion: 2
+        x: 6641
+        y: 4262
+        width: 248
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_46
+      rect:
+        serializedVersion: 2
+        x: 7133
+        y: 4274
+        width: 296
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_47
+      rect:
+        serializedVersion: 2
+        x: 8613
+        y: 4183
+        width: 539
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_48
+      rect:
+        serializedVersion: 2
+        x: 9978
+        y: 4247
+        width: 321
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_49
+      rect:
+        serializedVersion: 2
+        x: 10475
+        y: 4286
+        width: 188
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_50
+      rect:
+        serializedVersion: 2
+        x: 10846
+        y: 4177
+        width: 248
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_51
+      rect:
+        serializedVersion: 2
+        x: 11325
+        y: 4189
+        width: 145
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_52
+      rect:
+        serializedVersion: 2
+        x: 11677
+        y: 4225
+        width: 142
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_53
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 3663
+        width: 340
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_54
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 3594
+        width: 321
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_55
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 3591
+        width: 412
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_56
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 3664
+        width: 667
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_57
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 3655
+        width: 410
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_58
+      rect:
+        serializedVersion: 2
+        x: 6999
+        y: 3877
+        width: 285
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_59
+      rect:
+        serializedVersion: 2
+        x: 9753
+        y: 3946
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_60
+      rect:
+        serializedVersion: 2
+        x: 10075
+        y: 3934
+        width: 145
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_61
+      rect:
+        serializedVersion: 2
+        x: 6337
+        y: 3541
+        width: 407
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_62
+      rect:
+        serializedVersion: 2
+        x: 6987
+        y: 3255
+        width: 351
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_63
+      rect:
+        serializedVersion: 2
+        x: 7572
+        y: 3394
+        width: 422
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_64
+      rect:
+        serializedVersion: 2
+        x: 8170
+        y: 3303
+        width: 600
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_65
+      rect:
+        serializedVersion: 2
+        x: 9122
+        y: 3238
+        width: 564
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_66
+      rect:
+        serializedVersion: 2
+        x: 9887
+        y: 3188
+        width: 473
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_67
+      rect:
+        serializedVersion: 2
+        x: 10475
+        y: 3179
+        width: 455
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_68
+      rect:
+        serializedVersion: 2
+        x: 11155
+        y: 3243
+        width: 447
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_69
+      rect:
+        serializedVersion: 2
+        x: 11786
+        y: 3200
+        width: 356
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_70
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 3155
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_71
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 3155
+        width: 180
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_72
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 3115
+        width: 304
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_73
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 3130
+        width: 303
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_74
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 3152
+        width: 266
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_75
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 3155
+        width: 179
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_76
+      rect:
+        serializedVersion: 2
+        x: 3325
+        y: 3188
+        width: 185
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_77
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 3189
+        width: 130
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_78
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 3152
+        width: 172
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_79
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 3152
+        width: 212
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_80
+      rect:
+        serializedVersion: 2
+        x: 4469
+        y: 3188
+        width: 168
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_81
+      rect:
+        serializedVersion: 2
+        x: 4821
+        y: 3152
+        width: 260
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_82
+      rect:
+        serializedVersion: 2
+        x: 5233
+        y: 2982
+        width: 449
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_83
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 3121
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_84
+      rect:
+        serializedVersion: 2
+        x: 6295
+        y: 3079
+        width: 109
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_85
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 3158
+        width: 127
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_86
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2806
+        width: 260
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_87
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2757
+        width: 249
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_88
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2742
+        width: 224
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_89
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 2299
+        width: 351
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_90
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 2298
+        width: 418
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_91
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 2254
+        width: 665
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_92
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 2330
+        width: 454
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_93
+      rect:
+        serializedVersion: 2
+        x: 7207
+        y: 2257
+        width: 793
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_94
+      rect:
+        serializedVersion: 2
+        x: 8206
+        y: 2330
+        width: 843
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_95
+      rect:
+        serializedVersion: 2
+        x: 9286
+        y: 1941
+        width: 787
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_96
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2387
+        width: 270
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_97
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2399
+        width: 234
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_98
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2377
+        width: 219
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_99
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2363
+        width: 397
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_100
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2351
+        width: 346
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_101
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 2182
+        width: 540
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_102
+      rect:
+        serializedVersion: 2
+        x: 6526
+        y: 2327
+        width: 392
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_103
+      rect:
+        serializedVersion: 2
+        x: 10372
+        y: 2029
+        width: 600
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_104
+      rect:
+        serializedVersion: 2
+        x: 11203
+        y: 1884
+        width: 941
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1671
+        width: 391
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_106
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1671
+        width: 423
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_107
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1696
+        width: 279
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_108
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1781
+        width: 181
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_109
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1806
+        width: 150
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_110
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 2011
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_111
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1696
+        width: 185
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_112
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1650
+        width: 488
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_113
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 1624
+        width: 605
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_114
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 1723
+        width: 370
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_115
+      rect:
+        serializedVersion: 2
+        x: 7782
+        y: 1865
+        width: 236
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_116
+      rect:
+        serializedVersion: 2
+        x: 8252
+        y: 1859
+        width: 215
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_117
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 1878
+        width: 181
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_118
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 1770
+        width: 176
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_119
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 1738
+        width: 203
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_120
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 1868
+        width: 109
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_121
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 1811
+        width: 176
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_122
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 1794
+        width: 136
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_123
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 1544
+        width: 415
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_124
+      rect:
+        serializedVersion: 2
+        x: 6526
+        y: 1301
+        width: 393
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_125
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1593
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_126
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1189
+        width: 358
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_127
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1285
+        width: 150
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_128
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1253
+        width: 190
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_129
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 824
+        width: 636
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_130
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 768
+        width: 637
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_131
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 1005
+        width: 151
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_132
+      rect:
+        serializedVersion: 2
+        x: 7116
+        y: 898
+        width: 738
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_133
+      rect:
+        serializedVersion: 2
+        x: 8128
+        y: 946
+        width: 422
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_134
+      rect:
+        serializedVersion: 2
+        x: 8752
+        y: 895
+        width: 713
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_135
+      rect:
+        serializedVersion: 2
+        x: 9633
+        y: 895
+        width: 587
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_136
+      rect:
+        serializedVersion: 2
+        x: 10451
+        y: 1116
+        width: 407
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_137
+      rect:
+        serializedVersion: 2
+        x: 11158
+        y: 945
+        width: 579
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_138
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 889
+        width: 344
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_139
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 950
+        width: 227
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_140
+      rect:
+        serializedVersion: 2
+        x: 4852
+        y: 977
+        width: 245
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_141
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 931
+        width: 291
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_142
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 483
+        width: 343
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_143
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 531
+        width: 339
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_144
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 0
+        width: 750
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_145
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 338
+        width: 296
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_146
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 112
+        width: 440
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_147
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 113
+        width: 349
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_148
+      rect:
+        serializedVersion: 2
+        x: 5294
+        y: 146
+        width: 391
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_149
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 100
+        width: 375
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_150
+      rect:
+        serializedVersion: 2
+        x: 6673
+        y: 100
+        width: 494
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_151
+      rect:
+        serializedVersion: 2
+        x: 7557
+        y: 155
+        width: 388
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Objectos_152
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 343
+        width: 246
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
