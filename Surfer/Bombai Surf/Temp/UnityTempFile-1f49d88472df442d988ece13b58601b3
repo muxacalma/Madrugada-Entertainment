@@ -188,6 +188,7 @@
 'Assets/Scripts/objetosColision.cs'
 'Assets/Scripts/Scroll.cs'
 'Assets/Scripts/seguirPersonaje.cs'
+'Assets/Scripts/splash.cs'
 'Assets/Scripts/velocidaddecoracion.cs'
 'Assets/wait.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'

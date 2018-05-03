@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class objetosColision : MonoBehaviour {
 
+	public GameObject splash;
+
 	// Use this for initialization
 	void Start () {
 
@@ -16,7 +18,9 @@ public class objetosColision : MonoBehaviour {
 
 	void OnCollisionEnter2D(Collision2D collision){
 		if (collision.gameObject.tag == "Player") {
-			
+			NotificationCenter.DefaultCenter.PostNotification (this, "PersonajeMuere");
+			Debug.Log ("HA COLISIONADO!!!!!!!!!");
+			splash.gameObject.SetActive (true);
 		}
 	}
 }

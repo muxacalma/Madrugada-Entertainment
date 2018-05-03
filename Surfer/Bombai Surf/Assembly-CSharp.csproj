@@ -58,6 +58,7 @@
      <Compile Include="Assets\Scripts\objetosColision.cs" />
      <Compile Include="Assets\Scripts\Scroll.cs" />
      <Compile Include="Assets\Scripts\seguirPersonaje.cs" />
+     <Compile Include="Assets\Scripts\splash.cs" />
      <Compile Include="Assets\Scripts\velocidaddecoracion.cs" />
      <Compile Include="Assets\wait.cs" />
  <Reference Include="UnityEngine.UI">
