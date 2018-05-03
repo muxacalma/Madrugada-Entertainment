@@ -19,7 +19,7 @@ public class objetosColision : MonoBehaviour {
 	void OnCollisionEnter2D(Collision2D collision){
 		if (collision.gameObject.tag == "Player") {
 			NotificationCenter.DefaultCenter.PostNotification (this, "PersonajeMuere");
-			Debug.Log ("HA COLISIONADO!!!!!!!!!");
+			Destroy (collision.gameObject);
 			splash.gameObject.SetActive (true);
 		}
 	}
