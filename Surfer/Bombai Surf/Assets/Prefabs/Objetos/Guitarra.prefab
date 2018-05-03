@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 212308063841113836}
   - component: {fileID: 61886158132319028}
   - component: {fileID: 114414519892832270}
+  - component: {fileID: 95185314702524026}
   m_Layer: 0
   m_Name: Guitarra
   m_TagString: Untagged
@@ -36,7 +37,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1540528453633432}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.613013, y: -8.389561, z: 0}
+  m_LocalPosition: {x: 29.262133, y: 1.1067188, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -67,6 +68,23 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.65502405, y: 0.2767589}
   m_EdgeRadius: 0
+--- !u!95 &95185314702524026
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1540528453633432}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: eb9454e8b2b5a4305aeb5cc9f2a62978, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114414519892832270
 MonoBehaviour:
   m_ObjectHideFlags: 1
