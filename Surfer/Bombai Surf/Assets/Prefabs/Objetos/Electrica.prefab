@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 212581635811045636}
   - component: {fileID: 61937954165753316}
   - component: {fileID: 114531858847162464}
+  - component: {fileID: 95823833436292014}
   m_Layer: 0
   m_Name: Electrica
   m_TagString: Untagged
@@ -36,7 +37,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1264048465753030}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.027805, y: -4.1832128, z: 0}
+  m_LocalPosition: {x: 15.701306, y: 1.4484313, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -67,6 +68,23 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.6855006, y: 0.24767303}
   m_EdgeRadius: 0
+--- !u!95 &95823833436292014
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1264048465753030}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e2f244d67dc44403eaedddd87e455ff0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114531858847162464
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -78,7 +96,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03601ec28223d466cac4134a9b6e9c75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myObject1: {fileID: 1864617691754516, guid: badcf7cd4b7c54dbea6b3c930cbd73d6, type: 2}
+  splash: {fileID: 0}
 --- !u!212 &212581635811045636
 SpriteRenderer:
   m_ObjectHideFlags: 1
