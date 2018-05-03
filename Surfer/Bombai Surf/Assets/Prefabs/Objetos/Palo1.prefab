@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 212781093459148972}
   - component: {fileID: 61529100496655302}
   - component: {fileID: 114213330925441744}
+  - component: {fileID: 95697593054321970}
   m_Layer: 0
   m_Name: Palo1
   m_TagString: Untagged
@@ -58,7 +59,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.99, y: 1.17}
+    oldSize: {x: 1.1, y: 2.11}
     newSize: {x: 0.99, y: 1.17}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -67,6 +68,23 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.28874755, y: 0.28801298}
   m_EdgeRadius: 0
+--- !u!95 &95697593054321970
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1598045441464344}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4e1a6afabb2e54d8da2fb4b29c554652, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &114213330925441744
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -78,7 +96,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03601ec28223d466cac4134a9b6e9c75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myObject1: {fileID: 1864617691754516, guid: badcf7cd4b7c54dbea6b3c930cbd73d6, type: 2}
+  splash: {fileID: 0}
 --- !u!212 &212781093459148972
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -113,7 +131,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300018, guid: 43d26f5976f354ab2bc2181d96a397b0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d66b2bed16c20461e924327a33b141e7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
