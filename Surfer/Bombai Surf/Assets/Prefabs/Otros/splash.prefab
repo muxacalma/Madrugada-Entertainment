@@ -71,6 +71,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   personaje: {fileID: 0}
+  desp: 2.7
 --- !u!212 &212292472284732568
 SpriteRenderer:
   m_ObjectHideFlags: 1
