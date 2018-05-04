@@ -1916,6 +1916,48 @@ MonoBehaviour:
   - {fileID: 1002537042370672, guid: da9defcb458b9403bb71816f0eaa03da, type: 2}
   tiempoMin: 5
   tiempoMax: 10
+--- !u!1001 &1818102091
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1209137221}
+    m_Modifications:
+    - target: {fileID: 4963309505136546, guid: b1963476dd0854311b86e3fc0b1e366b, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.5350938
+      objectReference: {fileID: 0}
+    - target: {fileID: 4963309505136546, guid: b1963476dd0854311b86e3fc0b1e366b, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -4.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4963309505136546, guid: b1963476dd0854311b86e3fc0b1e366b, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -1.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4963309505136546, guid: b1963476dd0854311b86e3fc0b1e366b, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4963309505136546, guid: b1963476dd0854311b86e3fc0b1e366b, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4963309505136546, guid: b1963476dd0854311b86e3fc0b1e366b, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4963309505136546, guid: b1963476dd0854311b86e3fc0b1e366b, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4963309505136546, guid: b1963476dd0854311b86e3fc0b1e366b, type: 2}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b1963476dd0854311b86e3fc0b1e366b, type: 2}
+  m_IsPrefabParent: 0
 --- !u!4 &1905523550 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4972439906541544, guid: 4aaa029112ed349319f67981afd092af,
