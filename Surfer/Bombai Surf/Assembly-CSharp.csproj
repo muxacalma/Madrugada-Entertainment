@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\enableSplash.cs" />
+     <Compile Include="Assets\LetterSpacing.cs" />
      <Compile Include="Assets\retry.cs" />
      <Compile Include="Assets\Scripts\Delay.cs" />
      <Compile Include="Assets\Scripts\Generador.cs" />
