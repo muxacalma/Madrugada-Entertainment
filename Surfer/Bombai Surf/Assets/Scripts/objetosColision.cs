@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class objetosColision : MonoBehaviour {
 
-	public GameObject splash;
 
 	// Use this for initialization
 	void Start () {
