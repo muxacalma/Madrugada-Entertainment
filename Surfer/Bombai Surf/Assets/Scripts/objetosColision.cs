@@ -20,7 +20,6 @@ public class objetosColision : MonoBehaviour {
 		if (collision.gameObject.tag == "Player") {
 			NotificationCenter.DefaultCenter.PostNotification (this, "PersonajeMuere");
 			Destroy (collision.gameObject);
-			splash.gameObject.SetActive (true);
 		}
 	}
 }
