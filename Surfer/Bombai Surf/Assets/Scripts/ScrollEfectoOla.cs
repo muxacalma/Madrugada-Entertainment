@@ -22,7 +22,7 @@ public class ScrollEfectoOla : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (empezar) {
-			if (cont == 1) {
+			if (cont == 2) {
 				gameObject.GetComponent<Renderer> ().material.mainTextureOffset = new Vector2 (((Time.time - tiempoInicio) * velocidad) % 1, ((Time.time - tiempoInicio) * velocidad) % 1);
 				cont = 0;
 			} else {
