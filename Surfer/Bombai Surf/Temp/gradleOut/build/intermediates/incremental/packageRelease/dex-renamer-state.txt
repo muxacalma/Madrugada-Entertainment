@@ -1,0 +1,4 @@
+#Tue May 08 05:53:57 CEST 2018
+base.0=/Users/juansanchogarcia/Documents/GitHub/Madrugada-Entertainment/Madrugada-Entertainment/Surfer/Bombai Surf/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/juansanchogarcia/Documents/GitHub/Madrugada-Entertainment/Madrugada-Entertainment/Surfer/Bombai Surf/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
