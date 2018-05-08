@@ -6,6 +6,7 @@ public class enableSplash : MonoBehaviour {
 
 
 	public GameObject splash;
+	public GameObject maxScore;
 	// Use this for initialization
 	void Start () {
 		NotificationCenter.DefaultCenter.AddObserver (this, "PersonajeMuere");
@@ -22,5 +23,6 @@ public class enableSplash : MonoBehaviour {
 
 	void activar(){
 		splash.gameObject.SetActive (true);
+		maxScore.gameObject.SetActive (true);
 	}
 }

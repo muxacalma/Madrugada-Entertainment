@@ -12,6 +12,7 @@ public class seguirPersonaje : MonoBehaviour {
 	private int cont = 0;
 	private int marc;
 	public Text marcador;
+	public Text textoRecord;
 
 
 	void Start(){
@@ -34,6 +35,12 @@ public class seguirPersonaje : MonoBehaviour {
 	void PersonajeMuere(){
 		isDead = true;
 		personaje = null;
+
+		if (EstadoJuego.estadoJuego.puntuacionMaxima < int.Parse (marcador.text)) {
+			EstadoJuego.estadoJuego.puntuacionMaxima = int.Parse (marcador.text);
+			textoRecord.gameObject.SetActive (true);
+			EstadoJuego.estadoJuego.Guardar ();
+		}
 
 	}
 

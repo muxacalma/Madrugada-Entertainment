@@ -1,10 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class objetosColision : MonoBehaviour {
 
-
+	public Text marcador;
 	// Use this for initialization
 	void Start () {
 
@@ -19,6 +20,8 @@ public class objetosColision : MonoBehaviour {
 		if (collision.gameObject.tag == "Player") {
 			NotificationCenter.DefaultCenter.PostNotification (this, "PersonajeMuere");
 			Destroy (collision.gameObject);
+
+
 		}
 	}
 

@@ -1,9 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Delay : MonoBehaviour {
 
+	public Text marcador;
 
 	// Use this for initialization
 	void Start ()
@@ -22,6 +24,7 @@ public class Delay : MonoBehaviour {
 
 	void PersonajeEmpiezaASurfear(){
 		gameObject.SetActive (false);
+
 	}
 
 }
