@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Delay : MonoBehaviour {
 
-	public GameObject g;
 
 	// Use this for initialization
 	void Start ()
 	{
 		Debug.Log ("aqui llega");
 		StartCoroutine(DelayedAnimation());
+		NotificationCenter.DefaultCenter.AddObserver (this, "PersonajeEmpiezaASurfear");
 	}
 
 	// The delay coroutine
@@ -18,7 +18,10 @@ public class Delay : MonoBehaviour {
 	{
 		Debug.Log ("y aqui");
 		yield return new WaitForSeconds(1f);
-		g.SetActive (true);
+	}
+
+	void PersonajeEmpiezaASurfear(){
+		gameObject.SetActive (false);
 	}
 
 }

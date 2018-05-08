@@ -21,4 +21,11 @@ public class objetosColision : MonoBehaviour {
 			Destroy (collision.gameObject);
 		}
 	}
+
+	void OnTriggerEnter2D(Collider2D collision){
+		if (collision.gameObject.tag == "Player") {
+			NotificationCenter.DefaultCenter.PostNotification (this, "PersonajeMuere");
+			Destroy (collision.gameObject);
+		}
+	}
 }
