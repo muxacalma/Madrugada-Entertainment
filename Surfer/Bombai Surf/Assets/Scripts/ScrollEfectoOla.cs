@@ -7,6 +7,7 @@ public class ScrollEfectoOla : MonoBehaviour {
 	public float velocidad = 0f;
 	private bool empezar = true;
 	private float tiempoInicio = 0f;
+	private int cont = 0;
 
 	// Use this for initialization
 	void Start () {
@@ -21,8 +22,12 @@ public class ScrollEfectoOla : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (empezar) {
-			gameObject.GetComponent<Renderer>().material.mainTextureOffset = new Vector2 (((Time.time - tiempoInicio) * velocidad) % 1, ((Time.time - tiempoInicio) * velocidad) % 1);
-
+			if (cont == 1) {
+				gameObject.GetComponent<Renderer> ().material.mainTextureOffset = new Vector2 (((Time.time - tiempoInicio) * velocidad) % 1, ((Time.time - tiempoInicio) * velocidad) % 1);
+				cont = 0;
+			} else {
+				cont++;
+			}
 		}
 	}
 }
